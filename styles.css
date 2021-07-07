@@ -1,0 +1,33 @@
+body {
+    color: blue;
+}
+
+/* Selector de tagname */
+h1 {
+    color: red;
+    font-size: 45px;
+}
+
+/* Selector universal */
+* {
+    font-size: 90px;
+}
+
+/* Selector de ID*/
+#palabra {
+    font-weight: lighter;
+}
+
+/* Selector de clase*/
+.palabras {
+    font-weight: lighter;
+}
+
+.palabras2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+}
